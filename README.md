@@ -27,7 +27,7 @@ Performs CRUD operations on books via REST APIs (tested using Postman).
 ## 📷 Screenshots
 
 ### 1. Fetch All Books (GET `/book`)
-![Fetch All Books](screenshots/get-all-bboks.png)
+![Fetch All Books](screenshots/get-all-books.png)
 
 ### 2. Fetch Book by ID (GET `/book/{id}`)
 ![Fetch Book by ID](screenshots/get-book-by-id.png)
@@ -76,4 +76,5 @@ Base URL: http://localhost:8080
 | POST   | `/book`      | Add a new book      |
 | PUT    | `/book/{id}` | Update a book by ID |
 | DELETE | `/book/{id}` | Delete a book by ID |
+
 
